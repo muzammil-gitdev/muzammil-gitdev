@@ -61,4 +61,6 @@
   <a href="https://instagram.com/muzammil.shah_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" hspace="5" />
   </a>
+  <a href="https://dev.to/muzammil-gitdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muzammil-gitdev" height="30" width="40" /></a>
+<a href="https://fb.com/muzammil.854" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muzammil.854" height="30" width="40" /></a>
 </p>
