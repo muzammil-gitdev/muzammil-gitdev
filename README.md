@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=F7F7F7&vCenter=true&center=true&width=800&height=100&lines=const+developer+%;++++name%3A+%22Syed+Muzammil+Ali+Shah%22%2C;++++role%3A+%22Frontend+Developer%22%2C;++++origin%3A+%22Pakistan%F0%9F%87%B5%F0%9F%87%B0%22;" alt="Typing SVG - Syed Muzammil Ali Shah" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=F7F7F7&vCenter=true&center=true&width=800&height=100&lines=++++name%3A+%22Syed+Muzammil+Ali+Shah%22%2C;++++role%3A+%22Frontend+Developer%22%2C;++++origin%3A+%22Pakistan%F0%9F%87%B5%F0%9F%87%B0%22;" alt="Typing SVG - Syed Muzammil Ali Shah" />
 </p>
 
 <h3 align="center">Crafting sleek interfaces and user-centric frontend experiences.</h3>
