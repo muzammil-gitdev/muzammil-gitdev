@@ -10,7 +10,7 @@
 
 ### 🚀 At a Glance
 
-- 🌐 **My Portfolio:** Check out my work at [www.muzammil-ali.vercel.app](https://www.muzammil-ali.vercel.app)
+- 🌐 **My Portfolio:** Check out my work at [www.muzammil-ali.vercel.app](https://muzammil-ali.vercel.app)
 - 📄 **Resume:** [View my experience & skills](https://drive.google.com/file/d/1xHniMjVR3kPYfKKF3tdCGWt2mguotqgx/view?usp=sharing)
 - 💬 **Ask me about:** `javascript`, `react`, `next.js`, `UI/UX`
 - 📫 **How to reach me:** [muzammil.uiit@gmail.com](mailto:muzammil.uiit@gmail.com)
