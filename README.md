@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages and Tool
 
 <table width="100%">
   <tr>
@@ -43,6 +43,7 @@
 </table>
 
 ---
+
 ### 📊 GitHub Activity
 
 <p align="center">
